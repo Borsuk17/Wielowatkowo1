@@ -1,0 +1,14 @@
+C:\Users\Macie\source\repos\watkiZad1\watkiZad1\obj\Debug\watkiZad1.csprojResolveAssemblyReference.cache
+C:\Users\Macie\source\repos\watkiZad1\watkiZad1\obj\Debug\watkiZad1.csproj.CoreCompileInputs.cache
+C:\Users\Macie\source\repos\watkiZad1\watkiZad1\bin\Debug\watkiZad1.exe.config
+C:\Users\Macie\source\repos\watkiZad1\watkiZad1\bin\Debug\watkiZad1.exe
+C:\Users\Macie\source\repos\watkiZad1\watkiZad1\bin\Debug\watkiZad1.pdb
+C:\Users\Macie\source\repos\watkiZad1\watkiZad1\obj\Debug\watkiZad1.exe
+C:\Users\Macie\source\repos\watkiZad1\watkiZad1\obj\Debug\watkiZad1.pdb
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\watkiZad1\watkiZad1\bin\Debug\watkiZad1.exe.config
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\watkiZad1\watkiZad1\bin\Debug\watkiZad1.exe
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\watkiZad1\watkiZad1\bin\Debug\watkiZad1.pdb
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\watkiZad1\watkiZad1\obj\Debug\watkiZad1.csprojAssemblyReference.cache
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\watkiZad1\watkiZad1\obj\Debug\watkiZad1.csproj.CoreCompileInputs.cache
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\watkiZad1\watkiZad1\obj\Debug\watkiZad1.exe
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\watkiZad1\watkiZad1\obj\Debug\watkiZad1.pdb
